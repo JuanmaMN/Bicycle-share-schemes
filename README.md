@@ -29,7 +29,7 @@ Code is available [here](https://github.com/JuanmaMN/Bicycle-share-schemes/blob/
 
 <br>
 
-<hr>
+
 
 
 #  London Cycle Hire Scheme
