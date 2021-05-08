@@ -49,3 +49,24 @@ Code is available [here](https://github.com/JuanmaMN/Bicycle-share-schemes/blob/
 <hr>
 
 
+
+#  Brisbane CityCycle
+
+
+The source of all datasets is from [Brisbane CityCycle Hire Scheme](http://www.citycycle.com.au/).
+
+Code is available [here](https://github.com/JuanmaMN/Bicycle-share-schemes/blob/main/Brisbane_CityCycle/Brisbane_CityCycle_code.R).
+
+Brisbane City Council is phasing out the CityCycle bike hire scheme to roll out shared e-bikes from mid-2021.
+
+<br>
+
+<p align="center">
+  
+<img width="903" alt="London Bike" src="https://user-images.githubusercontent.com/37122520/117541186-96bc0c80-b00a-11eb-883d-002f8e15ddb2.png">
+
+</p>
+
+<br>
+
+<hr>
