@@ -21,12 +21,29 @@ Code is available [here](https://github.com/JuanmaMN/Bicycle-share-schemes/blob/
   
 <img width="903" alt="1. NYC's Official Bike Sharing System" src="https://user-images.githubusercontent.com/37122520/114266724-afc3a480-99ef-11eb-9592-793f72f222ca.png">
 
+
+</p>
+
+<br>
+
+Code is available [here](https://github.com/JuanmaMN/Bicycle-share-schemes/blob/main/Citi_Bike_NYC/NYC_Official_Bike_Sharing_System_day_of_week.R).
+
+
+<br>
+
+<p align="center">
+  
+<img width="903" alt="1. NYC's Official Bike Sharing System - Day of week" src="https://user-images.githubusercontent.com/37122520/120071640-2a23b300-c088-11eb-9065-686017937ba3.png">
+  
 </p>
 
 <br>
 
 
 
+
+
+<hr>
 
 #  London Cycle Hire Scheme
 
