@@ -40,6 +40,18 @@ Code is available [here](https://github.com/JuanmaMN/Bicycle-share-schemes/blob/
 <br>
 
 
+Code is available [here](https://github.com/JuanmaMN/Bicycle-share-schemes/blob/main/Citi_Bike_NYC/NYC_Official_Bike_Sharing_System_hour_of_day.R).
+
+
+<br>
+
+<p align="center">
+  
+<img width="903" alt="1. NYC's Official Bike Sharing System - Hour of day" src="https://user-images.githubusercontent.com/37122520/120098653-0f584980-c12f-11eb-8b15-3dd34a766e15.png">
+  
+</p>
+
+<br>
 
 
 
