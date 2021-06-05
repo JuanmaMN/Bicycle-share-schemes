@@ -69,6 +69,19 @@ Code is available [here](https://github.com/JuanmaMN/Bicycle-share-schemes/blob/
 
 <br>
 
+Code is available [here](https://github.com/JuanmaMN/Bicycle-share-schemes/blob/main/Citi_Bike_NYC/NYC_Official_Bike_Sharing_System_Top_10_in_2020.R)
+
+
+<br>
+
+<p align="center">
+  
+<img width="903" alt="1. NYC's Official Bike Sharing System -Top 10" src="https://user-images.githubusercontent.com/37122520/120886781-969e3500-c5e7-11eb-8f91-33fbd1cf5508.png">
+  
+</p>
+
+<br>
+
 
 
 <hr>
