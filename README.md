@@ -128,3 +128,58 @@ Brisbane City Council is phasing out the CityCycle bike hire scheme to roll out 
 <br>
 
 <hr>
+
+
+# Bluebikes Boston - Metro Boston's public bike share program
+
+The source of all datasets is from [Bluebikes Boston bike share](https://www.bluebikes.com/).
+
+
+Code is available [here](https://github.com/JuanmaMN/Bicycle-share-schemes/blob/main/Bluebikes_Boston/Bluebikes_Boston_Monthly_performance.R).
+
+<br>
+
+<p align="center">
+  
+<img width="903" alt="Monthly performance" src="https://user-images.githubusercontent.com/37122520/122638827-4dbda480-d0ee-11eb-8358-c9735ed093ed.png">
+
+</p>
+
+<br>
+                                                
+Code is available [here](https://github.com/JuanmaMN/Bicycle-share-schemes/blob/main/Bluebikes_Boston/Bluebikes_Boston_Day_hour_of_the_week.R)
+
+<br>
+
+<p align="center">
+  
+<img width="903" alt="Hour Day performance" src="https://user-images.githubusercontent.com/37122520/122638847-780f6200-d0ee-11eb-8037-ee6611299d20.png">
+
+</p>
+
+<br>
+
+Code is available [here](https://github.com/JuanmaMN/Bicycle-share-schemes/blob/main/Bluebikes_Boston/Bluebikes_Boston_Day_of_the_week.R)
+
+<br>
+
+<p align="center">
+  
+<img width="903" alt="Day performance" src="https://user-images.githubusercontent.com/37122520/122638871-a3924c80-d0ee-11eb-89ac-3af944abc1f1.png">
+
+   
+</p>
+
+<br>
+
+Code is available [here](https://github.com/JuanmaMN/Bicycle-share-schemes/blob/main/Bluebikes_Boston/Bluebikes_Boston_Hour_analysis.R)
+
+<br>
+
+<p align="center">
+  
+<img width="903" alt="Day performance" src="https://user-images.githubusercontent.com/37122520/122638887-b9077680-d0ee-11eb-897b-5dd5713087dc.png">
+
+</p>
+
+<hr>
