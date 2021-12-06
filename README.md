@@ -1,5 +1,5 @@
 
-This repository provides different analyses of the different Bike share systems around the world.
+This repository provides different analyses of the different Bike share systems around the world.  🚲
 
 Code has been uploaded as well for you to view.
 
