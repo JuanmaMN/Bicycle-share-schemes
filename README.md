@@ -93,12 +93,11 @@ The source of all datasets is from [London Cycle Hire Scheme](https://data.londo
 
 Code is available [here](https://github.com/JuanmaMN/Bicycle-share-schemes/blob/main/London_Cycle_Hire_Scheme/London_Cycle_Hire_Scheme_code.R).
 
-
 <br>
 
 <p align="center">
-  
-<img width="903" alt="London Bike" src="https://user-images.githubusercontent.com/37122520/114267518-0f23b380-99f4-11eb-902b-c20a394a493b.png">
+
+<img width="1439" alt="London_bike_Up_to_December_2022" src="https://user-images.githubusercontent.com/37122520/215325832-4a255591-f186-4d77-ba2f-1954ad537f7b.png">
 
 </p>
 
